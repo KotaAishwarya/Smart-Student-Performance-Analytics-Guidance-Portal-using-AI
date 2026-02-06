@@ -1,0 +1,2 @@
+# Smart-Student-Performance-Analytics-Guidance-Portal-using-AI
+Smart Student Performance Analytics &amp; Guidance Portal using AI is an intelligent web-based system designed to analyze students’ academic performance using artificial intelligence techniques. The portal collects and evaluates data such as exam scores, attendance, and learning patterns to identify strengths, weaknesses, and improvement areas
